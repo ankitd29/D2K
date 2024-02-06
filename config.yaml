@@ -1,0 +1,9 @@
+path: "d:/D2K"  # dataset root dir
+train: images2/train  # train images (relative to 'path')
+val: images2/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Sun Pharma
+  1: Hikma
+  2: eipico
