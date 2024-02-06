@@ -1,2 +1,2 @@
 # D2K
-Data 2 Knowledge
+FlipPharma - a solution to evaluate placement of your products quick and fast
