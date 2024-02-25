@@ -1,2 +1,2 @@
-# D2K
+# FlipPharma
 FlipPharma - a solution to evaluate placement of your products quick and fast
